@@ -1,6 +1,6 @@
 //https://leetcode.com/problems/build-array-from-permutation/?envType=problem-list-v2&envId=array
-/* Time Complexity = O()
-   Space Complexity = O()
+/* Time Complexity = O(n)
+   Space Complexity = O(n)
 */
 
 class Solution {
